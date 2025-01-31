@@ -1,21 +1,21 @@
 ## 👋 Hello and Welcome!
 
 I'm Axel, a passionate **Computer Systems Engineering** student at **ESCOM IPN**, with a strong interest in **Cloud Computing** and **Software Development**.  
-I enjoy working with cloud platforms like **Google Cloud (GCP) and Microsoft Azure**, and I'm always looking to improve my skills in scalable and high-performance systems.
+I enjoy working with cloud platforms like **Google Cloud (GCP)**, and I'm always looking to improve my skills in scalable and high-performance systems.
 
 ### 🚀 What I'm Working On:
-- ☁️ Deepening my expertise in **Cloud Computing** (GCP, Azure).
-- 🔹 Learning **Django, Python, and C++**.
+- ☁️ Deepening my expertise in  **Django, Python, and C++**.
+- 🔹 Learning  **Cloud Computing** (GCP).
 - 🔹 Seeking collaboration on projects involving **Python, C++, Java, C, HTML5, JavaScript, CSS, and PHP**.
-- 🔹 Looking for mentorship in **Cloud Computing**.
 
 ### 💡 Ask Me About:
-- ✔ **Cloud Computing** – GCP, Azure, cloud services, and scalability.
 - ✔ **Python, C++, Java, C** – Programming concepts and best practices.
 - ✔ **Web development** with Django and backend technologies.
+- ✔ **Cloud Computing** – GCP, cloud services, and scalability.
 
-📫 **How to reach me:** [LinkedIn Profile](#) *(Replace with your actual link!)*  
-
+📫 **How to reach me:** 
+ - [LinkedIn Profile](http://linkedin.com/in/axel-torres-a796b12b0) 
+ - [AxelAlejT@gmail.com](mailto:AxelAlejT@gmail.com)
 ---
 
 ## 🛠️ Technologies & Tools
@@ -32,7 +32,6 @@ I enjoy working with cloud platforms like **Google Cloud (GCP) and Microsoft Azu
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
 </p>
 
 ---
@@ -51,4 +50,4 @@ I enjoy working with cloud platforms like **Google Cloud (GCP) and Microsoft Azu
 - 🌍 My native language is **Spanish**, and I'm learning **English**.  
 - 🚀 Passionate about **Cloud Computing**, **Scalable Systems**, and **Backend Development**.  
 
-✨ Let's connect and build something amazing together! 🚀  
+✨ Let's connect and build something amazing together! 🚀
