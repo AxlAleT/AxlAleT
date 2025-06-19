@@ -29,12 +29,6 @@ Computer Systems Engineering student passionate about building cloud-based distr
 
 ### 🛠️ Featured Projects
 
-#### 🤖 [American Sign Language Alphabet Classification System](https://github.com/AxlAleT)
-- **Tech Stack:** TensorFlow, GCP, Docker, MediaPipe
-- Built a containerized ML model serving real-time ASL alphabet inferences
-- Optimized deployment costs by integrating MediaPipe for on-device processing
-- Deployed on Google Cloud Platform with scalable architecture
-
 #### 📚 [BookSpot: Django E-Commerce Platform](https://github.com/AxlAleT)
 - **Tech Stack:** Django, Python, REST APIs
 - Designed cloud-ready e-commerce application with inventory management
@@ -44,8 +38,14 @@ Computer Systems Engineering student passionate about building cloud-based distr
 #### 📖 [Papelio: Spring Boot Research Platform](https://github.com/AxlAleT)
 - **Tech Stack:** Spring Boot, Redis, Docker, Java
 - Implemented GDPR-compliant Role-Based Access Control (RBAC)
-- Enhanced API performance with Redis caching strategies
+- Enhanced API performance with Caffeine caching
 - Dockerized microservices for multi-environment deployment
+
+#### 🤖 [American Sign Language Alphabet Classification System](https://github.com/AxlAleT)
+- **Tech Stack:** TensorFlow, GCP, Docker, MediaPipe
+- Built a containerized ML model serving real-time ASL alphabet inferences
+- Optimized deployment costs by integrating MediaPipe for on-device processing
+- Deployed on Google Cloud Platform with scalable architecture
 
 ### 📊 GitHub Stats
 
@@ -73,7 +73,3 @@ Computer Systems Engineering student passionate about building cloud-based distr
 - 📚 Always learning new technologies and best practices
 - 🤝 Open to collaboration on interesting projects
 - 💼 Seeking opportunities in English-speaking environments
-
----
-
-*"Building the future, one commit at a time"* ⚡
